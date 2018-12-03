@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Proceedings
-exclude: true
 permalink: /proceedings/
 ---
 

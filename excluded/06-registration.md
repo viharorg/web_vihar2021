@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Registration
-exclude: true
 permalink: /registration/
 ---
 
