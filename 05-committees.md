@@ -23,7 +23,7 @@ permalink: /committees/
 Elodie Mandel-Briefer     ||    ETH Zürich
 Roger Moore        ||    University of Sheffield
 Julie Oswald       ||    University of St. Andrews
-Serge Thill        ||    University of Nijmegen
+Serge Thill        ||    Radboud University
 Robert Eklund      ||    Linköping University
 Dan Stowell        ||    Queen Mary University of London
 Emmanouil Benetos  ||    Queen Mary University of London
