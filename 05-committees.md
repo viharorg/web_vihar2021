@@ -6,41 +6,49 @@ permalink: /committees/
  
 #### Organising Committee   
 
-**General Chair**       || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
+**General Chair**       || [Dan Stowell](mailto:dan.stowell@qmul.ac.uk)          ||       Queen Mary University of London
 **Technical Chairs**    || [Angela Dassow](mailto:adassow@carthage.edu)          ||       Carthage College
-                        || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Sheffield
-**Financial Chair**     || [Benjamin Weiss](mailto:benjamin.weiss@tu-berlin.de)  ||       Technical University of Berlin
-**Local Chair**         || [Serge Thill](mailto:serge.thill@his.se)              ||       University of Skövde
+                        || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Toulon
+**Financial Chair**     || TBC  ||       
+**Local Chair**         || [Julian Hough](mailto:julian.hough:qmul.ac.uk)        ||       Queen Mary University of London
 **Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
-**Publications Chair**  || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Sheffield
-**Publicity Chair**     || [Rita Singh](mailto:rsingh@cs.cmu.edu)                ||       Carnegie Mellon University
-**Website**             || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Sheffield
-**Ad-hoc**              || [Robert Eklund](mailto:robert@roberteklund.info)      ||       Linköping University
-                        || [Bhiksha Raj](mailto:bhiksha@cs.cmu.edu)              ||       Carnegie Mellon University
+**Publications Chair**  || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Toulon
+**Publicity Chair**     || [Elisabetta Versace](mailto:e.versace@qmul.ac.uk)     ||       Queen Mary University of London
+**Website**             || [Emmanouil Benetos](mailto:emmanouil.benetos@qmul.ac.uk) ||    Queen Mary University of London
 
 <br/>  
   
 #### Scientific Review Committee
 
+Elodie Mandel-Briefer     ||    ETH Zürich
+Roger Moore        ||    University of Sheffield
+Julie Oswald       ||    University of St. Andrews
+Serge Thill        ||    University of Nijmegen
+Robert Eklund      ||    Linköping University
+Dan Stowell        ||    Queen Mary University of London
+Emmanouil Benetos  ||    Queen Mary University of London
+Julian Hough       ||    Queen Mary University of London
+Kaspar Althoefer   ||    Queen Mary University of London
+Ildar Farkhatdinov ||    Queen Mary University of London
+Matthew Purver     ||    Queen Mary University of London
+Elisabetta Versace ||    Queen Mary University of London
+Ricard Marxer      ||    University of Sheffield
+
+<!--
 Andrey Anikin      ||    Lund University
 Véronique Auberge  ||    Laboratoire d’Informatique de Grenoble
 Timo Baumann       ||    Universität Hamburg
 Tony Belpaeme      ||    Plymouth University
-Elodie Briefer     ||    ETH Zürich
 Nick Cambell       ||    Trinity College Dublin
 Fred Cummins       ||    University College Dublin
 Angela Dassow      ||    Carthage College
-Robert Eklund      ||    Linköping University
 Julie Elie         ||    University of California
 Sabrina Engesser   ||    University of Zurich
 Sarah Hawkins      ||    Cambridge University
-Ricard Marxer      ||    University of Sheffield
-Roger Moore        ||    University of Sheffield
-Julie Oswald       ||    University of St. Andrews
 Bhiksha Raj        ||    Carnegie Mellon University
 Rita Singh         ||    Carnegie Mellon University
-Dan Stowell        ||    Queen Mary University of London
 Zheng-Hua Tan      ||    Aalborg University
-Serge Thill        ||    University of Skövde
 Petra Wagner       ||    Universität Bielefeld
 Benjamin Weiss     ||    TU Berlin
+-->
+
