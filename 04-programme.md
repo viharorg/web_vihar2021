@@ -2,6 +2,7 @@
 layout: page
 title: Programme
 permalink: /programme/
+published: false
 ---
 
 The tentative programme for the two-day workshop is as follows:

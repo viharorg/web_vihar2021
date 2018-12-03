@@ -2,6 +2,7 @@
 layout: page
 title: Registration
 permalink: /registration/
+published: false
 ---
 
 Early registration is now open and will **close the 28 of July 2017**.
