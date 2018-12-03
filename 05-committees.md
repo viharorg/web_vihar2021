@@ -14,7 +14,7 @@ permalink: /committees/
 **Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
 **Publications Chair**  || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Toulon
 **Publicity Chair**     || [Elisabetta Versace](mailto:e.versace@qmul.ac.uk)     ||       Queen Mary University of London
-**Website**             || [Emmanouil Benetos](mailto:emmanouil.benetos@qmul.ac.uk) ||    Queen Mary University of London
+**Website Chair**             || [Emmanouil Benetos](mailto:emmanouil.benetos@qmul.ac.uk) ||    Queen Mary University of London
 
 <br/>  
   
@@ -32,7 +32,7 @@ Kaspar Althoefer   ||    Queen Mary University of London
 Ildar Farkhatdinov ||    Queen Mary University of London
 Matthew Purver     ||    Queen Mary University of London
 Elisabetta Versace ||    Queen Mary University of London
-Ricard Marxer      ||    University of Sheffield
+Ricard Marxer      ||    University of Toulon
 
 <!--
 Andrey Anikin      ||    Lund University
