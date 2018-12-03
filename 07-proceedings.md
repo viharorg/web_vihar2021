@@ -1,10 +1,9 @@
-<!--
 ---
 layout: page
 title: Proceedings
 permalink: /proceedings/
+published: false
 ---
--->
 
 Proceedings are now available for download by clicking the cover below.
 
