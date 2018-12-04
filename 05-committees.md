@@ -8,11 +8,11 @@ permalink: /committees/
 
 **General Chair**       || [Dan Stowell](mailto:dan.stowell@qmul.ac.uk)          ||       Queen Mary University of London
 **Technical Chairs**    || [Angela Dassow](mailto:adassow@carthage.edu)          ||       Carthage College
-                        || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Toulon
+                        || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       University of Toulon
 **Financial Chair**     || TBC  ||       
 **Local Chair**         || [Julian Hough](mailto:julian.hough:qmul.ac.uk)        ||       Queen Mary University of London
 **Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
-**Publications Chair**  || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Toulon
+**Publications Chair**  || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       University of Toulon
 **Publicity Chair**     || [Elisabetta Versace](mailto:e.versace@qmul.ac.uk)     ||       Queen Mary University of London
 **Website Chair**             || [Emmanouil Benetos](mailto:emmanouil.benetos@qmul.ac.uk) ||    Queen Mary University of London
 
