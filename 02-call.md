@@ -21,6 +21,9 @@ Suggested workshop topics may include, but are not limited to the following area
  - Vocal interactivity between non-conspecifics
  - Spoken language systems
  - Technology-based research methods
+
+
+The [dates](/dates/) and other submission information will be announced shortly.
  
 <!--# Submission
  
