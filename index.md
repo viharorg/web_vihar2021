@@ -2,6 +2,8 @@
 layout: page
 ---
 
+<img style="float: center; margin: 1em; overflow: auto;" src="{{ site.baseurl }}/assets/vihar-2019-banner.png">
+
 {:center: style="text-align: center"}
 # 2nd International Workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**
 {:center}
