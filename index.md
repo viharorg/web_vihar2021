@@ -28,4 +28,4 @@ We invite original submissions of papers or extended abstracts that relate to in
 
 The workshop follows the success of the 1st International workshop on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/)).
 
-If you wish to join the **VIHAR** community, you can read more about us [here](http://www.vihar.org) and subscribe to our mailing list [here](http://www.freelists.org/list/vihar).
+If you wish to join the **VIHAR** community, you can read more about us [here](http://www.vihar.org), subscribe to our mailing list [here](http://www.freelists.org/list/vihar), and follow [the VIHAR-2019 twitter account](https://twitter.com/vihar2019).
