@@ -33,8 +33,11 @@ Tecumseh Fitch is the head of the Department of Cognitive Biology at the Univers
 
 ### Verena Rieser
 
-#### Biography
+#### **How machines learn to talk. Machine Learning for Conversational AI**
 
-Verena Rieser is a professor in the Interaction Lab at Heriot-Watt University Computer Science department, currently leading a team of 5 full-time researchers (2 RAs, 3 PhDs). Trained as a computational linguist, Verena has applied her expertise in machine learning and natural language processing to several areas of artificial intelligence, including spoken dialogue systems, natural language generation, sentiment analysis and computational sustainability. She also works closely with industry in bringing speech technology to the market. Verena received her PhD with summa cum laude from Saarland University, Germany, in 2008, winning the Dr. Eduard-Martin prize for outstanding research. Afterwards she moved to the UK for a research fellow position at the University of Edinburgh, and took up her faculty job at Heriot-Watt in 2011. In 2013 she spend 3 month as a visiting researcher at Nuance Communications, the market leader in speech technology.
+#### Biography
+<img style="float:right; width: 200px; right; margin: 1em; overflow: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="{{ site.baseurl }}/assets/vrieser.jpg">
+
+Verena Rieser is a Professor in Computer Science at Heriot-Watt University, Edinburgh, where she is affiliated with the [Interaction Lab](https://sites.google.com/site/hwinteractionlab/). Verena holds a PhD from Saarland University (2008) and worked as a postdoctoral researcher at the University of Edinburgh (2008-11). Her research focuses on machine learning techniques for spoken dialogue systems and language generation, where she has authored almost [100 peer-reviewed papers](https://scholar.google.com/citations?hl=en&user=4c2k2LEAAAAJ&view_op=list_works&sortby=pubdate). She has served as area chair for ACL for both generation and dialogue. For the past two years,  Verena and her group were the only UK team to make it through to the finals of the [Amazon Alexa Prize](https://developer.amazon.com/alexaprize).
 
 
