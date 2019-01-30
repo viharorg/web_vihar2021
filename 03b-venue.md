@@ -6,7 +6,7 @@ permalink: /venue/
 
 ### Workshop venue
 
-The workshop will take at **Queen Mary University of London, UK**, at the Mile End Campus, Arts Two Lecture Theatre.
+The workshop will take at **Queen Mary University of London, UK**, at the **Mile End Campus**, **Arts Two Lecture Theatre**.
 
 #### Venue address
 
@@ -29,4 +29,4 @@ Transport for London publish <a href="https://tfl.gov.uk/maps">interactive maps 
 
 ### Accommodation
 
-
+Queen Mary University of London maintains a list of hotels close to the Mile End campus: <a href="http://www.residences.qmul.ac.uk/alternative/hotels/">http://www.residences.qmul.ac.uk/alternative/hotels/</a>
