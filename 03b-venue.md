@@ -6,7 +6,7 @@ permalink: /venue/
 
 ### Workshop venue
 
-The workshop will take place at **Queen Mary University of London, UK**, at the **Mile End Campus**, **Arts Two Lecture Theatre**.<br><br>
+The workshop will take place at **Queen Mary University of London, UK**, at the **Mile End Campus**, **Arts Two Building**.<br><br>
 
 #### Venue address
 
