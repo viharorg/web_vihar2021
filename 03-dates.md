@@ -8,8 +8,8 @@ permalink: /dates/
 
 **Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**-->
 
-| TBA          ||             Deadline for paper/abstract submissions. 
-| TBA          ||             Notification of acceptance
+| 3 May 2019          ||             Submission deadline 
+| 14 June 2019          ||             Notification of acceptance
 | TBA          ||             Final versions for inclusion in proceedings
 | TBA          ||             Early registration closes
 | 29-30 August 2019     ||             Workshop

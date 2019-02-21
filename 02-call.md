@@ -4,29 +4,39 @@ title: Call for papers
 permalink: /call/
 ---
 
-<!--**Abstracts are now being accepted and the submission deadline is ~~June 2, 2017~~ June 9, 2017.**
+<!--Almost all animals exploit vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a businessperson accessing stock prices using Siri on an iPhone, vocalisation provides a valuable communications channel through which behaviour may be coordinated and controlled, and information may be distributed and acquired. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to analyse different habitats or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
 
-**Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**-->
+**VIHAR-2019** is the second international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**. Taking place in London, UK on 29-30 August 2019, VIHAR-2019 aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields. VIHAR-2019 will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
 
-We invite original submissions papers or extended abstracts in all areas of vocal interactivity.
+VIHAR-2019 is scheduled to take place as a satellite event immediately before the [2019 International Bioacoustics Congress](http://www.2019.ibac.info/) (which takes place in Brighton, UK). We are aiming to keep the registration fee as low as possible.
+
+The workshop follows the success of the 1st International workshop on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/)). If you wish to join the VIHAR community, you can read more about us here, subscribe to our mailing list here, follow the VIHAR-2019 twitter account or [Facebook group](https://www.facebook.com/groups/1447726768643928/). -->
+
+We invite original submissions 5-page papers or 2-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2019 proceedings** that will be published as a collection in the open-access journal [PeerJ](https://peerj.com/).
 
 Suggested workshop topics may include, but are not limited to the following areas:
- - Physiological and morphological similarities/differences between vocal systems in animals
- - Properties and functions of animal signals
- - Evolution of vocal interactivity
- - Vocal imitation and learning
- - Conveyance of emotion
- - Comparative analyses of human and animal vocalisations
- - Use of vocalisation
- - Vocal interactivity between non-conspecifics
- - Spoken language systems
- - Technology-based research methods
+- Physiological and morphological comparisons between vocal systems in animals
+- Properties and functions of animal signals
+- Evolution of vocal interactivity
+- Vocal imitation and learning
+- Conveyance of emotion
+- Comparative analyses of human and animal vocalisations
+- Use of vocalisation
+- Vocal interactivity between non-conspecifics
+- Spoken language systems
+- Technology-based research methods
+- Vocal interaction with robots
 
+Open access journal publisher PeerJ is pleased to announce **two PeerJ Awards at VIHAR 2019**, to be awarded by an expert judging panel to the best submission/presentation from a student or early-career researcher. Each award includes a voucher for a free PeerJ publication (normally $1095), and aims to support students and early career researchers and bring continued awareness to the benefits that open access and open communication have in furthering scientific progress.
 
-The [dates](/dates/) and other submission information will be announced shortly.
- 
-<!--# Submission
- 
-Paper submissions should conform to the format as detailed in the [INTERSPEECH 2017 Author’s Kit](http://www.interspeech2017.org/wp-content/uploads/2016/11/IS2017_paper_kit.zip).  
+Submission link: [https://easychair.org/conferences/?conf=vihar2019](https://easychair.org/conferences/?conf=vihar2019)
 
-Submit your paper at the **[EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**-->
+Author kit:
+- Word template: [http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx](http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx)
+- Latex template: [http://vihar-2019.vihar.org/assets/templates/vihar2019_latex_template.zip](http://vihar-2019.vihar.org/assets/templates/vihar2019_latex_template.zip)
+
+Key Dates:
+- Submission deadline - 3 May 2019
+- Notification of acceptance - 14 June 2019
+- Workshop - 29-30 August 2019
+
