@@ -4,12 +4,12 @@ title: Registration
 permalink: /registration/
 ---
 
-<!--Early registration is now open and will **close on 22 August 2019**.-->
+Early registration is now open and will **close on 12 July 2019**.
 
-|         | Early | Late | At the event |
-|---------|-------|------|--------------|
-| Regular | £60   | TBC  | TBC          |
-| Student | £30   | TBC  | TBC          |
+|         | Early | Late |
+|---------|-------|------|
+| Regular | £60   | £80  |
+| Student | £30   | £40  |
 {: .fees-table}
 
 **Please register to the VIHAR workshop via the QMUL e-shop:**
