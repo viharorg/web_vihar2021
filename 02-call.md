@@ -12,7 +12,7 @@ VIHAR-2019 is scheduled to take place as a satellite event immediately before th
 
 The workshop follows the success of the 1st International workshop on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/)). If you wish to join the VIHAR community, you can read more about us here, subscribe to our mailing list here, follow the VIHAR-2019 twitter account or [Facebook group](https://www.facebook.com/groups/1447726768643928/). -->
 
-We invite original submissions 5-page papers or 2-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2019 proceedings** that will be published as a collection in the open-access journal [PeerJ](https://peerj.com/).
+We invite original submissions 5-page papers (with an optional 6th page for acknowledgements and references) or 3-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2019 proceedings** that will be published as a collection in the open-access journal [PeerJ](https://peerj.com/).
 
 Suggested workshop topics may include, but are not limited to the following areas:
 - Physiological and morphological comparisons between vocal systems in animals
@@ -34,6 +34,8 @@ Submission link: [https://easychair.org/conferences/?conf=vihar2019](https://eas
 Author kit:
 - Word template: [http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx](http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx)
 - Latex template: [http://vihar-2019.vihar.org/assets/templates/vihar2019_latex_template.zip](http://vihar-2019.vihar.org/assets/templates/vihar2019_latex_template.zip)
+
+Since the 2019 template for VIHAR submissions has a larger font than previous editions, we have modified the page limits: (a) short papers can be up to 3 pages in total; (b) longer papers are still 5 pages, but can use an extra sixth page for acknowledgments and references.
 
 Key Dates:
 - Submission deadline - 3 May 2019
