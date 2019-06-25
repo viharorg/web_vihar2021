@@ -39,6 +39,6 @@ Since the 2019 template for VIHAR submissions has a larger font than previous ed
 
 Key Dates:
 - Submission deadline - ~~3 May 2019~~ 10 May 2019
-- Notification of acceptance - 14 June 2019
+- Notification of acceptance - ~~14 June 2019~~ 24 June 2019
 - Workshop - 29-30 August 2019
 
