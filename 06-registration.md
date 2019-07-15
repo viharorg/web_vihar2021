@@ -8,8 +8,8 @@ Early registration is now open and will **close on 12 July 2019**.
 
 |         | Early | Late |
 |---------|-------|------|
-| Regular | £60   | £80  |
-| Student | £30   | £40  |
+| Regular | ~~£60~~   | £80  |
+| Student | ~~£30~~   | £40  |
 {: .fees-table}
 
 **Please register to the VIHAR workshop via the QMUL e-shop:**

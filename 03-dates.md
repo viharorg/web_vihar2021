@@ -10,6 +10,6 @@ permalink: /dates/
 
 |  ~~3 May 2019~~ 10 May 2019          ||             Submission deadline 
 | ~~14 June 2019~~ 24 June 2019          ||             Notification of acceptance
-| 12 July 2019          ||             Early registration closes
+| ~~12 July 2019~~          ||             Early registration closes
 | ~~12 July 2019~~ 26 July 2019         ||             Final versions for inclusion in proceedings
 | 29-30 August 2019     ||             Workshop
