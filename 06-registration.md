@@ -4,7 +4,7 @@ title: Registration
 permalink: /registration/
 ---
 
-Early registration is now open and will **close on 12 July 2019**.
+Early registration is now closed (12th July) but tickets are still available:
 
 |         | Early | Late |
 |---------|-------|------|
