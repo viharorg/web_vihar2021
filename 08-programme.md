@@ -6,7 +6,7 @@ permalink: /programme/
 
 The draft schedule for the two-day workshop is as follows:
 
-<img src="{{ site.baseurl }}/assets/vihar2019-schedule.png" alt="Draft timetable, starts 10:30 on day 1, and 9:30 on day 2"/>
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/vihar2019-schedule.png" alt="Draft timetable, starts 10:30 on day 1, and 9:30 on day 2"/></div>
 
 The list of accepted papers for VIHAR 2019 is as follows; the full workshop programme will be announced in the coming weeks.
 
