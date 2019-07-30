@@ -8,6 +8,10 @@ permalink: /programme/
 
 # DAY 1
 
+## Registration, tea+coffee (Thursday 10:30-11:00)
+
+## Welcome (Thursday 11:00-11:30)
+
 ## [Keynote: Sonja Vernes](/keynotes/) (Thursday 11:30-12:30)
 
 ## Posters
