@@ -8,6 +8,8 @@ permalink: /programme/
 
 # DAY 1
 
+## [Keynote: Sonja Vernes](/keynotes/) (Friday 11:30-12:30)
+
 ## Posters
 
 | Angela Dassow. Play Vocalizations in White-handed Gibbons (Hylobates lar)    
@@ -26,6 +28,8 @@ permalink: /programme/
 | Jose Serrano, Noé Guzmán, Mario Penna, Marco Méndez and Claudio Soto-Azat. Sexual recognition between females and males that can call being pregnant: Who and how do Darwin’s frog interact vocally?
 {: .programme-table} 
 
+## [Keynote: Verena Rieser](/keynotes/) (Friday 16:00-17:00)
+
 ## Oral session 2 (Thursday 17:00-18:00)
 
 | Ralph Simon, Judith Varkevisser, Ezequiel Mendoza, Constance Scharff, Katharina Riebel and Wouter Halfwerk. Development and application of a robotic zebra finch (RoboFinch) to study multimodal cues in vocal communication     
@@ -37,6 +41,8 @@ permalink: /programme/
 
 # DAY 2
 
+## [Keynote: Mohammed Chetouani](/keynotes/) (Friday 9:30-10:30)
+
 ## Oral session 3 (Friday 11:00-12:30)
 
 | Michael Brady. Challenges for ingtegrating multimodal information into an open-source human-robot [speech] interaction system           
@@ -44,6 +50,8 @@ permalink: /programme/
 | Ambre Davat, Gang Feng and Véronique Aubergé. A Study on the Lombard Effect in Telepresence Robotics
 | Hiloko Kato. “Where do you go, Trico?”: Talking to Animal Companions in the Video Game The Last Guardian
 {: .programme-table} 
+
+## [Keynote: Tecumseh Fitch](/keynotes/) (Friday 14:00-15:00)
 
 ## Oral session 4 (Friday 15:00-16:00)
 
