@@ -8,7 +8,7 @@ permalink: /programme/
 
 # DAY 1
 
-## [Keynote: Sonja Vernes](/keynotes/) (Friday 11:30-12:30)
+## [Keynote: Sonja Vernes](/keynotes/) (Thursday 11:30-12:30)
 
 ## Posters
 
@@ -28,7 +28,7 @@ permalink: /programme/
 | Jose Serrano, Noé Guzmán, Mario Penna, Marco Méndez and Claudio Soto-Azat. Sexual recognition between females and males that can call being pregnant: Who and how do Darwin’s frog interact vocally?
 {: .programme-table} 
 
-## [Keynote: Verena Rieser](/keynotes/) (Friday 16:00-17:00)
+## [Keynote: Verena Rieser](/keynotes/) (Thursday 16:00-17:00)
 
 ## Oral session 2 (Thursday 17:00-18:00)
 
