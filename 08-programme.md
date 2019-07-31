@@ -43,7 +43,7 @@ permalink: /programme/
 
 ---
 
-# DAY 2: Friday 31st August 2019
+# DAY 2: Friday 30th August 2019
 
 ## [Keynote: Mohammed Chetouani](/keynotes/) (Friday 9:30-10:30)
 
