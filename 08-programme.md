@@ -25,16 +25,16 @@ permalink: /programme/
 {: .programme-table} 
 
 
-## Oral session 1 (Thursday 14:00-15:00)
+# Oral session 1 (Thursday 14:00-15:00)
 
 | Anna Zanoli, Chiara De Gregorio, Daria Valente, Valeria Torti, Giovanna Bonadonna, Rose Marie Randrianarison, Cristina Giacoma and Marco Gamba. Sex dimorphic phrase combinatorics in the song of the indris (Indri indri)             
 | Susanne Schötz, Joost van de Weijer and Robert Eklund. Melody Matters: An Acoustic Study of Domestic Cat Meows in Six Contexts and Four Mental States             
 | Jose Serrano, Noé Guzmán, Mario Penna, Marco Méndez and Claudio Soto-Azat. Sexual recognition between females and males that can call being pregnant: Who and how do Darwin’s frog interact vocally?
 {: .programme-table} 
 
-## [Keynote: Verena Rieser](/keynotes/) (Thursday 16:00-17:00)
+# [Keynote: Verena Rieser](/keynotes/) (Thursday 16:00-17:00)
 
-## Oral session 2 (Thursday 17:00-18:00)
+# Oral session 2 (Thursday 17:00-18:00)
 
 | Ralph Simon, Judith Varkevisser, Ezequiel Mendoza, Constance Scharff, Katharina Riebel and Wouter Halfwerk. Development and application of a robotic zebra finch (RoboFinch) to study multimodal cues in vocal communication     
 | Michael Mcloughlin, Shuge Wang, Dan Stowell, Emmanouil Benetos and Elisabetta Versace. A System for Robot-Chick Vocal interactions      
@@ -43,11 +43,11 @@ permalink: /programme/
 
 ---
 
-# DAY 2: Friday 30th August 2019
+## DAY 2: Friday 30th August 2019
 
-## [Keynote: Mohammed Chetouani](/keynotes/) (Friday 9:30-10:30)
+# [Keynote: Mohammed Chetouani](/keynotes/) (Friday 9:30-10:30)
 
-## Oral session 3 (Friday 11:00-12:30)
+# Oral session 3 (Friday 11:00-12:30)
 
 | Michael Brady. Challenges for ingtegrating multimodal information into an open-source human-robot [speech] interaction system           
 | Leanne Nagels, Etienne Gaudrain, Debi Vickers, Marta Matos Lopes, Petra Hendriks and Deniz Baskent. Vocal emotion recognition in school-age children: the Emo-HI test for hearing-impaired populations          
@@ -55,9 +55,9 @@ permalink: /programme/
 | Hiloko Kato. “Where do you go, Trico?”: Talking to Animal Companions in the Video Game The Last Guardian
 {: .programme-table} 
 
-## [Keynote: Tecumseh Fitch](/keynotes/) (Friday 14:00-15:00)
+# [Keynote: Tecumseh Fitch](/keynotes/) (Friday 14:00-15:00)
 
-## Oral session 4 (Friday 15:00-16:00)
+# Oral session 4 (Friday 15:00-16:00)
 
 | Marion Poupard, Paul Best, Jan Schluter, Helena Symonds, Paul Spong, Thierry Lengagne, Thierry Soriano and Hervé Glotin. Orca vocalization pitch tracking over three years of on pentaphonic continuous recording          
 | Maxence Ferrari, Ricard Marxer, Mark Asch and Hervé Glotin. Wave Propagation in the Biosonar Organ of sperm whales using Finite Difference Time Domain     
