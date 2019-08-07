@@ -6,6 +6,8 @@ permalink: /programme/
 
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/vihar2019-schedule.png" alt="Draft timetable, starts 10:30 on day 1, and 9:30 on day 2"/></div>
 
+---
+
 ## DAY 1: Thursday 29th August 2019
 
 # Registration, tea+coffee (Thursday 10:30-11:00)
