@@ -6,15 +6,15 @@ permalink: /programme/
 
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/vihar2019-schedule.png" alt="Draft timetable, starts 10:30 on day 1, and 9:30 on day 2"/></div>
 
-# DAY 1: Thursday 29th August 2019
+## DAY 1: Thursday 29th August 2019
 
-## Registration, tea+coffee (Thursday 10:30-11:00)
+# Registration, tea+coffee (Thursday 10:30-11:00)
 
-## Welcome (Thursday 11:00-11:30)
+# Welcome (Thursday 11:00-11:30)
 
-## [Keynote: Sonja Vernes](/keynotes/) (Thursday 11:30-12:30)
+# [Keynote: Sonja Vernes](/keynotes/) (Thursday 11:30-12:30)
 
-## Posters
+# Posters
 
 | Angela Dassow. Play Vocalizations in White-handed Gibbons (Hylobates lar)    
 | Elisabetta Versace, Michael Mcloughlin, Dan Stowell and Kaspar Althoefer. Robot-pet vocal interactions: Domestic chicks as a model system          
