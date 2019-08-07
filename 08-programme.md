@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programme & accepted papers
+title: Programme
 permalink: /programme/
 ---
 
