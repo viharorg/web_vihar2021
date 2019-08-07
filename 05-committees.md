@@ -8,13 +8,14 @@ permalink: /committees/
 
 **General Chair**       || [Dan Stowell](mailto:dan.stowell@qmul.ac.uk)          ||       Queen Mary University of London
 **Technical Chairs**    || [Angela Dassow](mailto:adassow@carthage.edu)          ||       Carthage College
-                        || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       Université de Toulon, Aix Marseille Univ, CNRS, LIS
-**Financial Chair**     || TBC  ||       
+                        || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       Université de Toulon, Aix Marseille Univ, CNRS, LIS    
 **Local Chair**         || [Julian Hough](mailto:julian.hough@qmul.ac.uk)        ||       Queen Mary University of London
 **Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
 **Publications Chair**  || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       Université de Toulon, Aix Marseille Univ, CNRS, LIS
 **Publicity Chair**     || [Elisabetta Versace](mailto:e.versace@qmul.ac.uk)     ||       Queen Mary University of London
 **Website Chair**             || [Emmanouil Benetos](mailto:emmanouil.benetos@qmul.ac.uk) ||    Queen Mary University of London
+**Senior Events and Engagement Coordinator** || [Jessie Wand](mailto:jwand@turing.ac.uk) ||    The Alan Turing Institute
+
 
 <br/>  
   
@@ -34,21 +35,12 @@ Matthew Purver     ||    Queen Mary University of London
 Elisabetta Versace ||    Queen Mary University of London
 Ricard Marxer      ||    Université de Toulon, Aix Marseille Univ, CNRS, LIS
 
-<!--
-Andrey Anikin      ||    Lund University
-Véronique Auberge  ||    Laboratoire d’Informatique de Grenoble
-Timo Baumann       ||    Universität Hamburg
-Tony Belpaeme      ||    Plymouth University
-Nick Cambell       ||    Trinity College Dublin
-Fred Cummins       ||    University College Dublin
-Angela Dassow      ||    Carthage College
-Julie Elie         ||    University of California
-Sabrina Engesser   ||    University of Zurich
-Sarah Hawkins      ||    Cambridge University
-Bhiksha Raj        ||    Carnegie Mellon University
-Rita Singh         ||    Carnegie Mellon University
-Zheng-Hua Tan      ||    Aalborg University
-Petra Wagner       ||    Universität Bielefeld
-Benjamin Weiss     ||    TU Berlin
--->
 
+<br/>  
+  
+#### Local Arrangements Team
+
+Veronica Morfi     ||    Queen Mary University of London
+Zico Pratama Putra        ||    Queen Mary University of London
+Shuge Wang       ||    Queen Mary University of London
+Courtney  Reed        ||    Queen Mary University of London
