@@ -17,6 +17,8 @@ Sonja Vernes is the leader of the Neurogenetics of Vocal Communication group. So
 
 ### Mohamed Chetouani
 
+#### **Interpersonal speech-based interaction**
+
 #### Biography
 
 Mohamed Chetouani is Full Professor in Signal Processing and Machine Learning for the Human Machine Interaction Institute for Intelligent Systems and Robotics (CNRS UMR7222) at Sorbonne University, and CSO
