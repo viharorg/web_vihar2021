@@ -8,6 +8,15 @@ permalink: /venue/
 
 The workshop will take place at **Queen Mary University of London, UK**, at the **Mile End Campus**, **Arts Two Building**.<br><br>
 
+<img style="width:100%; max-width: 1038px;" src="{{ site.baseurl }}/assets/vihar-directions-map.png">
+
+The recommended way to arrive is to travel to Mile End tube station.
+
+* On exiting Mile End station, turn immediately left.
+* Walk straight along the road (Mile End Road). You will cross a junction and go under a big yellow bridge.
+* Once you arrive at QMUL (on the right-hand side of the road), enter the campus through the main gateway.
+* You must come into the campus to get to the Arts Two building which will be on your left.
+
 #### Venue address
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.40849239505!2d-0.04256854808755788!3d51.524067079537886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761d2f4ebb40dd%3A0xc0cca7de33120519!2sQueen+Mary+University+of+London!5e0!3m2!1sen!2suk!4v1539351975334" allowfullscreen="" width="600" height="450"></iframe>
