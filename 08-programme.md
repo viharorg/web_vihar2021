@@ -19,7 +19,7 @@ permalink: /programme/
 # Posters
 
 | Angela Dassow. Play Vocalizations in White-handed Gibbons (Hylobates lar)    
-| Elisabetta Versace, Michael Mcloughlin, Dan Stowell and Kaspar Althoefer. Robot-pet vocal interactions: Domestic chicks as a model system          
+| Elisabetta Versace, Michael Mcloughlin, Joshua Brown, Dan Stowell, Ildar Frkhatdinov, and Kaspar Althoefer. Robot-pet vocal interactions: Domestic chicks as a model system          
 | Ji-Eun Kim, Carolina Baslino and Volker Dellwo. The acoustic correlates of Aegyo (애교) speaking style in South Korea   
 | Elodie F. Briefer, Pavel Linhart, Richard Policht, Marek Špinka, Lisette Leliveld, Sandra Düpjan, Birger Puppe, Mónica Padilla de la Torre, Andrew M. Janczak, Cécile Bourguet, Veronique Deiss, Alain Boissy, Carole Guerin, Eva Read, Marjorie Coulon, Edna Hillmann and Céline Tallet. Vocal expression of emotional valence in pigs across multiple call types and contexts
 | Julia Hyland Bruno, Seth Cluett, Ben Holtzman and George Lewis. Learning How to Sing: Developing a Virtual Bird to Probe Zebra Finch Vocal Interactivity
