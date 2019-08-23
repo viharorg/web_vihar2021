@@ -4,16 +4,18 @@ title: Registration
 permalink: /registration/
 ---
 
-Early registration is now closed (12th July) but tickets are still available:
+Registration is now closed (22nd August).
+
+If you have any questions about registration please email [vihar.community+2019workshop@gmail.com](mailto:vihar.community+2019workshop@gmail.com).
 
 |         | Early | Late |
 |---------|-------|------|
-| Regular | ~~£60~~   | £80  |
-| Student | ~~£30~~   | £40  |
+| Regular | ~~£60~~   | ~~£80~~  |
+| Student | ~~£30~~   | ~~£40~~  |
 {: .fees-table}
 
-**Please register to the VIHAR workshop via the QMUL e-shop:**
-**[https://eshop.qmul.ac.uk/conferences-and-events/conferences-events/conferences-events/vihar-2019](https://eshop.qmul.ac.uk/conferences-and-events/conferences-events/conferences-events/vihar-2019)**
+<!-- **Please register to the VIHAR workshop via the QMUL e-shop:**
+**[https://eshop.qmul.ac.uk/conferences-and-events/conferences-events/conferences-events/vihar-2019](https://eshop.qmul.ac.uk/conferences-and-events/conferences-events/conferences-events/vihar-2019)** -->
 
 For the discounted student registration, please send evidence of student status to [vihar.community+2019workshop@gmail.com](mailto:vihar.community+2019workshop@gmail.com), ensuring that it is clear which person’s registration it is related to.
 
