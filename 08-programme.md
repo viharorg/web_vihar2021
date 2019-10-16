@@ -14,7 +14,7 @@ permalink: /programme/
 
 # Welcome (Thursday 11:00-11:30)
 
-# [Keynote: Sonja Vernes](/keynotes/) (Thursday 11:30-12:30)
+# [Keynote: Sonja Vernes](/keynotes/) (Thursday 11:30-12:30) [[video archive](https://echo360.org.uk/media/b3c07b72-59cd-460b-9b13-840658c6eb6a/public)]
 
 # Posters
 
@@ -34,7 +34,7 @@ permalink: /programme/
 | Jose Serrano, Noé Guzmán, Mario Penna, Marco Méndez and Claudio Soto-Azat. Sexual recognition between females and males that can call being pregnant: Who and how do Darwin’s frog interact vocally?
 {: .programme-table} 
 
-# [Keynote: Verena Rieser](/keynotes/) (Thursday 16:00-17:00)
+# [Keynote: Verena Rieser](/keynotes/) (Thursday 16:00-17:00) [[video archive](https://echo360.org.uk/media/7da68459-5943-42ec-940f-1bb78127e331/public)]
 
 # Oral session 2 (Thursday 17:00-18:00)
 
@@ -47,7 +47,7 @@ permalink: /programme/
 
 ## DAY 2: Friday 30th August 2019
 
-# [Keynote: Mohammed Chetouani](/keynotes/) (Friday 9:30-10:30)
+# [Keynote: Mohammed Chetouani](/keynotes/) (Friday 9:30-10:30) [[video archive](https://echo360.org.uk/media/cd0c3b6b-b72b-4263-8a82-4cbb13fc01b5/public)]
 
 # Oral session 3 (Friday 11:00-12:30)
 
@@ -57,7 +57,7 @@ permalink: /programme/
 | Hiloko Kato. “Where do you go, Trico?”: Talking to Animal Companions in the Video Game The Last Guardian
 {: .programme-table} 
 
-# [Keynote: Tecumseh Fitch](/keynotes/) (Friday 14:00-15:00)
+# [Keynote: Tecumseh Fitch](/keynotes/) (Friday 14:00-15:00) [[video archive](https://echo360.org.uk/media/773fa8b1-43d0-4bf2-9339-a398af69e7de/public)]
 
 # Oral session 4 (Friday 15:00-16:00)
 
