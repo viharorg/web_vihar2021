@@ -27,7 +27,7 @@ permalink: /programme/
 {: .programme-table} 
 
 
-# Oral session 1 (Thursday 14:00-15:00) [video archive](https://echo360.org.uk/media/413c79c1-0bc9-4624-b6df-efd8c27af9b3/public) [[video archive](https://echo360.org.uk/media/413c79c1-0bc9-4624-b6df-efd8c27af9b3/public)]
+# Oral session 1 (Thursday 14:00-15:00) [[video archive](https://echo360.org.uk/media/413c79c1-0bc9-4624-b6df-efd8c27af9b3/public)]
 
 | Anna Zanoli, Chiara De Gregorio, Daria Valente, Valeria Torti, Giovanna Bonadonna, Rose Marie Randrianarison, Cristina Giacoma and Marco Gamba. Sex dimorphic phrase combinatorics in the song of the indris (Indri indri)             
 | Susanne Schötz, Joost van de Weijer and Robert Eklund. Melody Matters: An Acoustic Study of Domestic Cat Meows in Six Contexts and Four Mental States             
