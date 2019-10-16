@@ -27,7 +27,7 @@ permalink: /programme/
 {: .programme-table} 
 
 
-# Oral session 1 (Thursday 14:00-15:00)
+# Oral session 1 (Thursday 14:00-15:00) [video archive](https://echo360.org.uk/media/413c79c1-0bc9-4624-b6df-efd8c27af9b3/public) [[video archive](https://echo360.org.uk/media/413c79c1-0bc9-4624-b6df-efd8c27af9b3/public)]
 
 | Anna Zanoli, Chiara De Gregorio, Daria Valente, Valeria Torti, Giovanna Bonadonna, Rose Marie Randrianarison, Cristina Giacoma and Marco Gamba. Sex dimorphic phrase combinatorics in the song of the indris (Indri indri)             
 | Susanne Schötz, Joost van de Weijer and Robert Eklund. Melody Matters: An Acoustic Study of Domestic Cat Meows in Six Contexts and Four Mental States             
@@ -36,7 +36,7 @@ permalink: /programme/
 
 # [Keynote: Verena Rieser](/keynotes/) (Thursday 16:00-17:00) [[video archive](https://echo360.org.uk/media/7da68459-5943-42ec-940f-1bb78127e331/public)]
 
-# Oral session 2 (Thursday 17:00-18:00)
+# Oral session 2 (Thursday 17:00-18:00) [[video archive](https://echo360.org.uk/media/3274aeed-334b-443f-bbeb-70183409cc6d/public)]
 
 | Ralph Simon, Judith Varkevisser, Ezequiel Mendoza, Constance Scharff, Katharina Riebel and Wouter Halfwerk. Development and application of a robotic zebra finch (RoboFinch) to study multimodal cues in vocal communication     
 | Michael Mcloughlin, Shuge Wang, Dan Stowell, Emmanouil Benetos and Elisabetta Versace. A System for Robot-Chick Vocal interactions      
@@ -49,7 +49,7 @@ permalink: /programme/
 
 # [Keynote: Mohammed Chetouani](/keynotes/) (Friday 9:30-10:30) [[video archive](https://echo360.org.uk/media/cd0c3b6b-b72b-4263-8a82-4cbb13fc01b5/public)]
 
-# Oral session 3 (Friday 11:00-12:30)
+# Oral session 3 (Friday 11:00-12:30) [[video archive](https://echo360.org.uk/media/9a0c6de0-e5cb-43fb-aa65-34198b87e6a3/public)]
 
 | Michael Brady. Challenges for ingtegrating multimodal information into an open-source human-robot [speech] interaction system           
 | Leanne Nagels, Etienne Gaudrain, Debi Vickers, Marta Matos Lopes, Petra Hendriks and Deniz Baskent. Vocal emotion recognition in school-age children: the Emo-HI test for hearing-impaired populations          
@@ -59,7 +59,7 @@ permalink: /programme/
 
 # [Keynote: Tecumseh Fitch](/keynotes/) (Friday 14:00-15:00) [[video archive](https://echo360.org.uk/media/773fa8b1-43d0-4bf2-9339-a398af69e7de/public)]
 
-# Oral session 4 (Friday 15:00-16:00)
+# Oral session 4 (Friday 15:00-16:00) [[video archive](https://echo360.org.uk/media/419afb23-433b-4b44-8d4f-2fda409175b0/public)]
 
 | Marion Poupard, Paul Best, Jan Schluter, Helena Symonds, Paul Spong, Thierry Lengagne, Thierry Soriano and Hervé Glotin. Orca vocalization pitch tracking over three years of on pentaphonic continuous recording          
 | Maxence Ferrari, Ricard Marxer, Mark Asch and Hervé Glotin. Wave Propagation in the Biosonar Organ of sperm whales using Finite Difference Time Domain     
