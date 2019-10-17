@@ -14,7 +14,7 @@ permalink: /programme/
 
 # Welcome (Thursday 11:00-11:30)
 
-# [Keynote: Sonja Vernes](/keynotes/) (Thursday 11:30-12:30) [[watch video](https://echo360.org.uk/media/b3c07b72-59cd-460b-9b13-840658c6eb6a/public)]
+# [Keynote: Sonja Vernes](/keynotes/) (Thursday 11:30-12:30)
 
 # Posters
 
