@@ -2,10 +2,10 @@
 layout: page
 ---
 
-<a href="http://vihar-2019.vihar.org/"><img style="float: center; overflow: auto;" src="{{ site.baseurl }}/assets/vihar-2019-banner.jpg"></a>
+<a href="http://vihar-2021.vihar.org/"><img style="float: center; overflow: auto;" src="{{ site.baseurl }}/assets/vihar-2021-banner.jpg"></a>
 
 {:center: style="text-align: center"}
-# 2nd International Workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**
+# 3rd International Workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**
 {:center}
 
 {:center: style="text-align: center"}
