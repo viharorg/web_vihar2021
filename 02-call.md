@@ -28,7 +28,8 @@ Suggested workshop topics may include, but are not limited to the following area
 - Technology-based research methods
 - Vocal interaction with robots
 
-<!--Open access journal publisher PeerJ is pleased to announce **two PeerJ Awards at VIHAR 2019**, to be awarded by an expert judging panel to the best submission/presentation from a student or early-career researcher. Each award includes a voucher for a free PeerJ publication (normally $1095), and aims to support students and early career researchers and bring continued awareness to the benefits that open access and open communication have in furthering scientific progress.
+<!--- Open access journal publisher PeerJ is pleased to announce **two PeerJ Awards at VIHAR 2019**, to be awarded by an expert judging panel to the best submission/presentation from a student or early-career researcher. Each award includes a voucher for a free PeerJ publication (normally $1095), and aims to support students and early career researchers and bring continued awareness to the benefits that open access and open communication have in furthering scientific progress.
+-->
 
 Submission link: [https://easychair.org/conferences/?conf=vihar2019](https://easychair.org/conferences/?conf=vihar2019)
 
