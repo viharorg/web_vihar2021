@@ -6,11 +6,11 @@ permalink: /call/
 
 <!--Almost all animals exploit vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a businessperson accessing stock prices using Siri on an iPhone, vocalisation provides a valuable communications channel through which behaviour may be coordinated and controlled, and information may be distributed and acquired. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to analyse different habitats or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
 
-**VIHAR-2019** is the second international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**. Taking place in London, UK on 29-30 August 2019, VIHAR-2019 aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields. VIHAR-2019 will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
+**VIHAR-2021** is the third international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**. Taking place virtyally in Paris, Frabce on 14-15 October 2021, VIHAR-2021 aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields. VIHAR-2021 will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
 
-VIHAR-2019 is scheduled to take place as a satellite event immediately before the [2019 International Bioacoustics Congress](http://www.2019.ibac.info/) (which takes place in Brighton, UK). We are aiming to keep the registration fee as low as possible.
+ We are aiming to keep the registration fee as low as possible.
 
-The workshop follows the success of the 1st International workshop on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/)). If you wish to join the VIHAR community, you can read more about us here, subscribe to our mailing list here, follow the VIHAR-2019 twitter account or [Facebook group](https://www.facebook.com/groups/1447726768643928/). -->
+The workshop follows the success of the International workshop on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/)). If you wish to join the VIHAR community, you can read more about us here, subscribe to our mailing list here, follow the VIHAR-2019 twitter account or [Facebook group](https://www.facebook.com/groups/1447726768643928/). -->
 
 We invite original submissions 5-page papers (with an optional 6th page for acknowledgements and references) or 3-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2019 proceedings** that will be published as a collection in the open-access journal [PeerJ](https://peerj.com/).
 
@@ -32,13 +32,13 @@ Open access journal publisher PeerJ is pleased to announce **two PeerJ Awards at
 Submission link: [https://easychair.org/conferences/?conf=vihar2019](https://easychair.org/conferences/?conf=vihar2019)
 
 Author kit:
-- Word template: [http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx](http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx)
+- Word template: [http://vihar-2021.vihar.org/assets/templates/vihar2019_word_template.docx](http://vihar-2019.vihar.org/assets/templates/vihar2019_word_template.docx)
 - Latex template: [http://vihar-2019.vihar.org/assets/templates/vihar2019_latex_template.zip](http://vihar-2019.vihar.org/assets/templates/vihar2019_latex_template.zip)
 
 Since the 2019 template for VIHAR submissions has a larger font than previous editions, we have modified the page limits: (a) short papers can be up to 3 pages in total; (b) longer papers are still 5 pages, but can use an extra sixth page for acknowledgments and references.
 
 Key Dates:
-- Submission deadline - ~~3 May 2019~~ 10 May 2019
-- Notification of acceptance - ~~14 June 2019~~ 24 June 2019
-- Workshop - 29-30 August 2019
+- Submission deadline -  July 2021
+- Notification of acceptance -  August 2021
+- Workshop - 14-15 August 2019
 
