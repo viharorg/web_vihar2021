@@ -30,7 +30,9 @@ Almost all animals exploit vocal signals for a range of ecologically-motivated p
 <!-- and it is supported by the International Speech Communication Association ([ISCA](http://www.isca-speech.org/)).-->
 We are aiming to keep the registration fee as low as possible.
 
-We invite original submissions of papers or extended abstracts that relate to innovative topics in any area of vocal interaction in-and-between humans, animals and robots. Each submission will be reviewed by at least two members of the Scientific Review Committee. Accepted submissions will be published in the (indexed) **VIHAR-2021** Proceedings.
+We invite original submissions of papers or extended abstracts that relate to innovative topics in any area of vocal interaction in-and-between humans, animals and robots. Each submission will be reviewed by at least two members of the Scientific Review Committee.
+
+<!-- Accepted submissions will be published in the (indexed) **VIHAR-2021** Proceedings.-->
 
 The workshop follows the success of the series of International workshops on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/) and [VIHAR-2019](http://vihar-2019.vihar.org/)).
 
