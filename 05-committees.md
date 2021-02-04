@@ -4,19 +4,25 @@ title: Committees
 permalink: /committees/
 --- 
  
+ 
 #### Organising Committee   
 
+**General Chair**       || [Dan Stowell](mailto:dan.stowell@qmul.ac.uk)          ||       Queen Mary University of London
+**Technical Chairs**    || [Angela Dassow](mailto:adassow@carthage.edu)          ||       Carthage College
 **General Chair**       || [Mohamed Chetouani](mailto:dan.stowell@qmul.ac.uk)          ||       Sorbonne University
 **Technical Chairs**    || [Dan Stowell](mailto:dan.stowell@qmul.ac.uk)          ||       Queen Mary University of London
                         || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       Université de Toulon, Aix Marseille Univ, CNRS, LIS    
+**Local Chair**         || [Julian Hough](mailto:julian.hough@qmul.ac.uk)        ||       Queen Mary University of London
 **Local Chair**         ||                                                          ||       
 **Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
-**Invited Discussant Chair**    || [Elodie Briefer ](mailto:elodie.briefer@bio.ku.dk)    ||       University of Copenhague
+**Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
 **Publications Chair**  || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       Université de Toulon, Aix Marseille Univ, CNRS, LIS
-<!---***Publicity Chair**     || [Elisabetta Versace](mailto:e.versace@qmul.ac.uk)     ||       Queen Mary University of London
+**Publicity Chair**     || [Elisabetta Versace](mailto:e.versace@qmul.ac.uk)     ||       Queen Mary University of London
+**Website Chair**             || [Emmanouil Benetos](mailto:emmanouil.benetos@qmul.ac.uk) ||    Queen Mary University of London
 <!---**Website Chair**             || [Emmanouil Benetos](mailto:emmanouil.benetos@qmul.ac.uk) ||    Queen Mary University of London
 **Senior Events and Engagement Coordinator** || [Jessie Wand](mailto:jwand@turing.ac.uk) ||    The Alan Turing Institute
 -->
+
 
 
 <br/>  
