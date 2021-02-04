@@ -42,5 +42,5 @@ Since the 2019 template for VIHAR submissions has a larger font than previous ed
 Key Dates:
 - Submission deadline -  July 2021
 - Notification of acceptance -  August 2021
-- Workshop - 14-15 August 2019
+- Workshop - 14-15 October 2021
 
