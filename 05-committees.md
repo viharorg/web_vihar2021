@@ -6,6 +6,7 @@ permalink: /committees/
  
 #### Organising Committee   
 
+**General Chair**       || [Mohamed Chetouani](mailto:mohamed.chetouani@sorbonne-universite.fr)          ||       Sorbonne University
 **General Chair**       || [Dan Stowell](mailto:dan.stowell@qmul.ac.uk)          ||       Queen Mary University of London
 **Technical Chairs**    || [Angela Dassow](mailto:adassow@carthage.edu)          ||       Carthage College
                         || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       Université de Toulon, Aix Marseille Univ, CNRS, LIS    
