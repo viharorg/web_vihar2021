@@ -11,7 +11,7 @@ layout: page
 {:center: style="text-align: center"}
 **14-15 October 2021  
 Paris, France
-Virtual**
+(Virtual Only) **
 {:center}
   
   
