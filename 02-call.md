@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Call for papers
+title: Call for submissions
 permalink: /call/
 ---
 
 <!--Almost all animals exploit vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a businessperson accessing stock prices using Siri on an iPhone, vocalisation provides a valuable communications channel through which behaviour may be coordinated and controlled, and information may be distributed and acquired. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to analyse different habitats or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
 
-**VIHAR-2021** is the third international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**. Taking place virtyally in Paris, Frabce on 14-15 October 2021, VIHAR-2021 aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields. VIHAR-2021 will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
+**VIHAR-2021** is the third international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**. Taking place virtyally in Paris, Frabce on 13-15 October 2021, VIHAR-2021 aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields. VIHAR-2021 will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
 
  We are aiming to keep the registration fee as low as possible.
 
-The workshop follows the success of the International workshop on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/)). If you wish to join the VIHAR community, you can read more about us here, subscribe to our mailing list here, follow the VIHAR-2019 twitter account or [Facebook group](https://www.facebook.com/groups/1447726768643928/). -->
+The workshop follows the success of previous international workshops on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/), [VIHAR-2019](http://vihar-2019.vihar.org/)). If you wish to join the VIHAR community, you can read more about us here, subscribe to our mailing list here, follow the VIHAR-2021 twitter account or [Facebook group](https://www.facebook.com/groups/1447726768643928/). -->
 
-We invite original submissions 5-page papers (with an optional 6th page for acknowledgements and references) or 3-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2021 proceedings**.
-
+We invite original submissions of abstracts for work to be presented as a "virtual poster" during the workshop, on topics in all areas of vocal interactivity. Accepted abstracts will be compiled in the **VIHAR-2021 proceedings**.
 
 Suggested workshop topics may include, but are not limited to the following areas:
 - Physiological and morphological comparisons between vocal systems in animals
@@ -28,19 +27,19 @@ Suggested workshop topics may include, but are not limited to the following area
 - Technology-based research methods
 - Vocal interaction with robots
 
-<!--- Open access journal publisher PeerJ is pleased to announce **two PeerJ Awards at VIHAR 2019**, to be awarded by an expert judging panel to the best submission/presentation from a student or early-career researcher. Each award includes a voucher for a free PeerJ publication (normally $1095), and aims to support students and early career researchers and bring continued awareness to the benefits that open access and open communication have in furthering scientific progress.
--->
+<!-- Submission link: [https://easychair.org/conferences/?conf=vihar2019](https://easychair.org/conferences/?conf=vihar2019) -->
 
-Submission link: [https://easychair.org/conferences/?conf=vihar2019](https://easychair.org/conferences/?conf=vihar2019)
+Authors should submit to us the following:
+- Title
+- Author list
+- Abstract (no more than 250 words)
+- VIHAR relevance: One sentence (for the committee) stating the relevance to the VIHAR theme.
+- *Optional: attachment (e.g. poster)*
 
-Author kit:
-- Word template: [http://vihar-2021.vihar.org/assets/templates/vihar2021_word_template.docx](http://vihar-2021.vihar.org/assets/templates/vihar2019_word_template.docx)
-- Latex template: [http://vihar-2021.vihar.org/assets/templates/vihar2021_latex_template.zip](http://vihar-2019.vihar.org/assets/templates/vihar2021_latex_template.zip)
-
-Since the 2019 template for VIHAR submissions has a larger font than previous editions, we have modified the page limits: (a) short papers can be up to 3 pages in total; (b) longer papers are still 5 pages, but can use an extra sixth page for acknowledgments and references.
 
 Key Dates:
-- Submission deadline -  July 2021
-- Notification of acceptance -  August 2021
-- Workshop - 14-15 October 2021
+- Submission deadline - **1st September 2021**
+- Notification of acceptance -  **TBA**
+- Workshop - 13-15 October 2021
 
+ 
