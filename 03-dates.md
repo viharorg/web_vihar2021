@@ -5,7 +5,7 @@ permalink: /dates/
 ---
 
 
-|            ||             Submission deadline 
+|   1st September 2021   ||             Submission deadline 
 |          ||             Notification of acceptance
 |          ||             Early registration closes
 |         ||             Final versions for inclusion in proceedings
