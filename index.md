@@ -9,7 +9,7 @@ layout: page
 {:center}
 
 {:center: style="text-align: center"}
-**14-15 October 2021  
+**13-15 October 2021  
 Paris, France
 (Virtual Only) **
 {:center}
@@ -25,7 +25,7 @@ Paris, France
 
 Almost all animals exploit vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a businessperson accessing stock prices using Siri on an iPhone, vocalisation provides a valuable communications channel through which behaviour may be coordinated and controlled, and information may be distributed and acquired. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to analyse different habitats or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
 
-**VIHAR-2021** is the second international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots.**  Taking place virtually in Paris, France on 14-15 October 2021, **VIHAR-2021** aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields.  **VIHAR-2021** will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
+**VIHAR-2021** is the second international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots.**  Taking place virtually in Paris, France on 13-15 October 2021, **VIHAR-2021** aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields.  **VIHAR-2021** will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
 
 <!-- and it is supported by the International Speech Communication Association ([ISCA](http://www.isca-speech.org/)).-->
 We are aiming to keep the registration fee as low as possible.
