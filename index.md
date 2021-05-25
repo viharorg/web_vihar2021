@@ -4,7 +4,7 @@ layout: page
 
 <a href="http://vihar-2021.vihar.org/"><img style="float: center; overflow: auto;" src="{{ site.baseurl }}/assets/campusPierreMarieCurie_SU_PKitmacher.jpg"></a>
 
-{:center: style="text-align: center"}
+{:center: style="text-align: center"} 
 # 3rd International Workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**
 {:center}
 
