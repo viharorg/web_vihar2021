@@ -13,8 +13,7 @@ permalink: /committees/
 **Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
 **Invited Discussant Chair**         || [Elodie Briefer ](mailto:julian.hough@qmul.ac.uk)        ||      University of Copenhagen
 **Publications Chair**  || [Ricard Marxer](mailto:ricard.marxer@lis-lab.fr)      ||       Université de Toulon, Aix Marseille Univ, CNRS, LIS
-<!-- **Publicity Chair**     ||     || -->            
-<!-- **Website Chair**             ||   ||  -->   
+ 
 
 
 
