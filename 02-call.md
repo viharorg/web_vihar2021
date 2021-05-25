@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for papers
+title: Call for submissions
 permalink: /call/
 ---
 
@@ -15,7 +15,38 @@ The workshop follows the success of the International workshop on Vocal Interact
 We invite original submissions 5-page papers (with an optional 6th page for acknowledgements and references) or 3-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2021 proceedings**.
 
 
-Suggested workshop topics may include, but are not limited to the following areas:
+
+We invite original submissions of abstracts in all areas of vocal interactivity. Suggested workshop topics may include, but are not limited to the following areas:
+  - Physiological and morphological comparisons between vocal systems in animals
+  - Properties and functions of animal signals
+  - Evolution of vocal interactivity
+  - Vocal imitation and learning
+  - Conveyance of emotion
+  - Comparative analyses of human and animal vocalisations
+  - Use of vocalisation
+  - Vocal interactivity between non-conspecifics
+  - Spoken language systems
+  - Technology-based research methods
+  - Vocal interaction with robots
+
+To present your work/ideas at VIHAR you will need to submit:
+ - Title
+ - Authors (and institutional affiliations)
+ - Abstract (max 500 words; you are also encouraged to include one image/diagram)
+ - One sentence stating the relevance to VIHAR
+ - Does this work relate to: Humans? Animals? Robots? (Multiple selections are certainly permitted!)
+
+The number of proposals from each presenter (“first author”) is limited to two. The number of proposals that a co-author can be involved in is limited to five.
+
+A panel of experts will curate the submissions in order to ensure they belong to the scope of the workshop.
+
+A compilation of the abstracts will be published online on the workshop website in the form of abstracts-only proceedings.
+
+Submission link: 
+https://forms.gle/VbvmLX3izxcFuFft9 
+
+
+<!---Suggested workshop topics may include, but are not limited to the following areas:
 - Physiological and morphological comparisons between vocal systems in animals
 - Properties and functions of animal signals
 - Evolution of vocal interactivity
@@ -27,9 +58,9 @@ Suggested workshop topics may include, but are not limited to the following area
 - Spoken language systems
 - Technology-based research methods
 - Vocal interaction with robots
-
-<!--- Open access journal publisher PeerJ is pleased to announce **two PeerJ Awards at VIHAR 2019**, to be awarded by an expert judging panel to the best submission/presentation from a student or early-career researcher. Each award includes a voucher for a free PeerJ publication (normally $1095), and aims to support students and early career researchers and bring continued awareness to the benefits that open access and open communication have in furthering scientific progress.
 -->
+<!--- Open access journal publisher PeerJ is pleased to announce **two PeerJ Awards at VIHAR 2019**, to be awarded by an expert judging panel to the best submission/presentation from a student or early-career researcher. Each award includes a voucher for a free PeerJ publication (normally $1095), and aims to support students and early career researchers and bring continued awareness to the benefits that open access and open communication have in furthering scientific progress.
+
 
 Submission link: [https://easychair.org/conferences/?conf=vihar2019](https://easychair.org/conferences/?conf=vihar2019)
 
@@ -38,9 +69,9 @@ Author kit:
 - Latex template: [http://vihar-2021.vihar.org/assets/templates/vihar2021_latex_template.zip](http://vihar-2019.vihar.org/assets/templates/vihar2021_latex_template.zip)
 
 Since the 2019 template for VIHAR submissions has a larger font than previous editions, we have modified the page limits: (a) short papers can be up to 3 pages in total; (b) longer papers are still 5 pages, but can use an extra sixth page for acknowledgments and references.
-
+-->
 Key Dates:
 - Submission deadline -  1st September 2021
 - Notification of acceptance -  22nd Septemver 2021
-- Workshop - 13-15 October 2021
+- Workshop - 13th-15th October 2021
 
