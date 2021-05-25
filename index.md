@@ -5,12 +5,12 @@ layout: page
 <a href="http://vihar-2021.vihar.org/"><img style="float: center; overflow: auto;" src="{{ site.baseurl }}/assets/campusPierreMarieCurie_SU_PKitmacher.jpg"></a>
 
 {:center: style="text-align: center"}
-# 2nd International Workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**
+# 3r International Workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots**
 {:center}
 
 {:center: style="text-align: center"}
-**29-30 August 2019  
-London, UK**
+**13-15 October 2021  
+Paris, France**
 {:center}
   
 <img style="float: right; margin: 1em; overflow: auto;" src="{{ site.baseurl }}/assets/vihar_schema.png">
