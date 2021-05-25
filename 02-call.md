@@ -12,7 +12,6 @@ permalink: /call/
 
 The workshop follows the success of the International workshop on Vocal Interactivity in-and-between Humans, Animals and Robots ([VIHAR-2017](http://vihar-2017.vihar.org/)). If you wish to join the VIHAR community, you can read more about us here, subscribe to our mailing list here, follow the VIHAR-2019 twitter account or [Facebook group](https://www.facebook.com/groups/1447726768643928/). -->
 
-We invite original submissions 5-page papers (with an optional 6th page for acknowledgements and references) or 3-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the **VIHAR-2021 proceedings**.
 
 
 
