@@ -24,18 +24,8 @@ permalink: /committees/
 
 Elodie Mandel-Briefer     ||    ETH Zürich
 Roger Moore        ||    University of Sheffield
-<!--  Julie Oswald       ||    University of St. Andrews -->
-<!-- Serge Thill        ||    Radboud University  -->
-<!-- Robert Eklund      ||    Linköping University -->
 Dan Stowell        ||    Tilburg University / Naturalis Biodiversity Centre
-<!-- Emmanouil Benetos  ||    Queen Mary University of London
-Julian Hough       ||    Queen Mary University of London
-Kaspar Althoefer   ||    Queen Mary University of London
-Ildar Farkhatdinov ||    Queen Mary University of London
-Matthew Purver     ||    Queen Mary University of London
-Elisabetta Versace ||    Queen Mary University of London -->
 Ricard Marxer      ||    Université de Toulon, Aix Marseille Univ, CNRS, LIS
-
 
 <br/>  
   
