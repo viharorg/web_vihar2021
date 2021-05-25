@@ -10,7 +10,7 @@ layout: page
 
 {:center: style="text-align: center"}
 **13-15 October 2021  
-Paris, France**
+Paris, France (Virtual Only)**
 {:center}
   
 <img style="float: right; margin: 1em; overflow: auto;" src="{{ site.baseurl }}/assets/vihar_schema.png">
