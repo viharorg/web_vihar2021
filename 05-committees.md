@@ -22,8 +22,10 @@ permalink: /committees/
   
 #### Scientific Review Committee
 
+Sabrina Engesser   ||   University of Vienna 
 Elodie Mandel-Briefer     ||    ETH Zürich
 Roger Moore        ||    University of Sheffield
+Julie Oswald       ||    University of St. Andrews
 Dan Stowell        ||    Tilburg University / Naturalis Biodiversity Centre
 Ricard Marxer      ||    Université de Toulon, Aix Marseille Univ, CNRS, LIS
 
