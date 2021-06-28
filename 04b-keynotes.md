@@ -16,6 +16,14 @@ Ilyena Hirskyj-Douglas is a Lecturer of Animal-Computer Interaction at the Unive
 <hr/>
 
 
+###  Katie Slocombe
+
+#### **  **
+
+#### Biography
+
+<hr/>
+
 
 
 
