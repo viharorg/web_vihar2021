@@ -18,10 +18,12 @@ Ilyena Hirskyj-Douglas is a Lecturer of Animal-Computer Interaction at the Unive
 
 ###  Katie Slocombe
 
-#### **  **
-
+#### ** " Who's a good dog?" The influence of dog directed speech on human-dog interactions **
+<img style="float:right; width: 200px; right; margin: 1em; overflow: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="{{ site.baseurl }}/assets/Katie_slocombe.jpg">
 #### Biography
-
+I completed my PhD in Chimpanzee Communication at the University of St Andrews, UK. After a brief post-doc at St Andrews I joined the University of
+York as a lecturer in 2007. Since establishing my own research group at the University of York I have continued to examine communication and social
+cognition in chimpanzees, but I have also investigated communication in other primates, including humans and dogs.
 <hr/>
 
 
