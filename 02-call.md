@@ -41,6 +41,8 @@ A panel of experts will curate the submissions in order to ensure they belong to
 
 A compilation of the abstracts will be published online on the workshop website in the form of abstracts-only proceedings.
 
+The authors will have the opportunity to submit papers to special issue organized in a journal after the VIHAR workshop.
+
 Submission link: 
 <https://forms.gle/VbvmLX3izxcFuFft9> 
 
