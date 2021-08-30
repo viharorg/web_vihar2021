@@ -4,7 +4,7 @@ title: Keynotes
 permalink: /keynotes/
 ---
 
-###  Hirskyj-Douglas
+###  Ilyena Hirskyj-Douglas
 
 #### **Animal-Computer Interaction: Future Directions for Animals Interacting with Computers**
 
