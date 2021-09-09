@@ -31,6 +31,9 @@ cognition in chimpanzees, but I have also investigated communication in other pr
 
 
 ###  Nikolaos Mavridis
+#### **  **
+
+<img style="float:right; width: 200px; right; margin: 1em; overflow: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="{{ site.baseurl }}/assets/NikolaosMavridis_FormalPhoto3.jpg">
 
 #### Biography
 Dr. Nikolaos Mavridis, PhD from the Massachusetts Institute of Technology, is an academic and consultant specializing in Robotics and Artificial Intelligence. He is the founder and director of the Interactive Robots and Media Lab (IRML) and has served in various professor positions, including NYU Poly and AD, Innopolis University, and UAEU, all the way to Full Professor rank. He has been a four-time TEDx speaker, as well as a speaker at Singularity University, and is also a pro-bono contributor to a number of organizations. His interests include human-robot interaction, machine learning, cognitive systems, and he has more than 80 peer-reviewed academic publications. Among other appointments, Nikolaos has served as a judge for the UAE Prime Minister’s Office “Drones for Good” and “Robotics and AI for Good” competition, is a member of EU Cognition action and the MIT Educational Council, a mentor for the MIT Enterprise Forum, has given 4 TEDx talks (including Geneva and Athens) and has been a Singularity University speaker, and is frequently invited for keynote talks worldwide.
