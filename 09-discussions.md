@@ -5,7 +5,7 @@ permalink: /discussions/
 ---
 
 
-### Session:: signal processing of animal vocalisations/AI/robotics
+### Session: signal processing of animal vocalisations/AI/robotics
 -	Jennifer Cunha 
 -	Reiji Suzuki 
 -	Lisa Gill
@@ -16,7 +16,7 @@ permalink: /discussions/
 -	Véronique Aubergé 
 - David Cohen
 
-###  Session: human-animal communication
+### Session: human-animal communication
 -	Piera Filippi 
 -	Andrey Anikin 
 - Kasia Pisansk
