@@ -14,7 +14,7 @@ permalink: /discussions/
 ### Session: human communication/robotics
 -	Maria Potsma 
 -	Véronique Aubergé 
-- David Cohen (can only on  the 14.10)
+- David Cohen
 
 ###  Session: human-animal communication
 -	Piera Filippi 
