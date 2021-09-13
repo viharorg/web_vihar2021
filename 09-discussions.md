@@ -12,11 +12,11 @@ permalink: /discussions/
 
 
 ### Session: human communication/robotics
--	Maria Potsma 
+-	Maria Postma 
 -	Véronique Aubergé 
 - David Cohen
 
 ### Session: human-animal communication
 -	Piera Filippi 
 -	Andrey Anikin 
-- Kasia Pisansk
+- Kasia Pisanski
