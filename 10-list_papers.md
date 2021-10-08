@@ -2,6 +2,7 @@
 layout: page
 title: Accepted Contributions
 permalink: /list_papers/
+exclude: true
 ---
 
 - Representation learning for orca calls classification
